@@ -9,14 +9,14 @@
 <body>
   <header>
     <h1>  👋 Hi, I'm Nathalie Fruiba! </h1>
-    <h2>Mathematician with a passion for financial applications </h2>
+    <h2>Mathematician with a passion for applications in finance </h2>
   </header>
   <main>
     <section class="interests">
       <h3> 🌱 My interests: </h3>
       <ul>
         <li>Financial Mathematics: Unraveling the mysteries of markets and building quantitative models for informed decision-making. ️ ️</li>
-        <li>Mathematics Exploration: Always venturing into new areas of mathematics, expanding my knowledge and perspective. ➡️</li>
+        <li>Mathematics Exploration: Always venturing into new areas of mathematics, expanding my knowledge and perspective. </li>
       </ul>
     </section>
     <section class="current">
